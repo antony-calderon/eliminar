@@ -13,6 +13,7 @@
     <title>Funciones</title>
 </head>
 <body>
+    <h3>Estoy haciendo pruebas con git y github</h3>
 <h1>
 <?php 
 saludo();
